@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Chit-Chat-Room/static/css/main.346e8421.chunk.css",
-    "main.js": "/Chit-Chat-Room/static/js/main.45e29c8b.chunk.js",
-    "main.js.map": "/Chit-Chat-Room/static/js/main.45e29c8b.chunk.js.map",
-    "runtime~main.js": "/Chit-Chat-Room/static/js/runtime~main.b52a4537.js",
-    "runtime~main.js.map": "/Chit-Chat-Room/static/js/runtime~main.b52a4537.js.map",
-    "static/js/2.1c0e7173.chunk.js": "/Chit-Chat-Room/static/js/2.1c0e7173.chunk.js",
-    "static/js/2.1c0e7173.chunk.js.map": "/Chit-Chat-Room/static/js/2.1c0e7173.chunk.js.map",
-    "index.html": "/Chit-Chat-Room/index.html",
-    "precache-manifest.c11b8e3321179a8a0ee8b58b9546155b.js": "/Chit-Chat-Room/precache-manifest.c11b8e3321179a8a0ee8b58b9546155b.js",
-    "service-worker.js": "/Chit-Chat-Room/service-worker.js",
-    "static/css/main.346e8421.chunk.css.map": "/Chit-Chat-Room/static/css/main.346e8421.chunk.css.map"
+    "main.css": "/my-chat-app/static/css/main.346e8421.chunk.css",
+    "main.js": "/my-chat-app/static/js/main.96aecb46.chunk.js",
+    "main.js.map": "/my-chat-app/static/js/main.96aecb46.chunk.js.map",
+    "runtime~main.js": "/my-chat-app/static/js/runtime~main.54322ce9.js",
+    "runtime~main.js.map": "/my-chat-app/static/js/runtime~main.54322ce9.js.map",
+    "static/js/2.119f2345.chunk.js": "/my-chat-app/static/js/2.119f2345.chunk.js",
+    "static/js/2.119f2345.chunk.js.map": "/my-chat-app/static/js/2.119f2345.chunk.js.map",
+    "index.html": "/my-chat-app/index.html",
+    "precache-manifest.bbc550a7045988833f57cb55abe4cfb8.js": "/my-chat-app/precache-manifest.bbc550a7045988833f57cb55abe4cfb8.js",
+    "service-worker.js": "/my-chat-app/service-worker.js",
+    "static/css/main.346e8421.chunk.css.map": "/my-chat-app/static/css/main.346e8421.chunk.css.map"
   }
 }
